@@ -1,6 +1,7 @@
 # Daikoku
 
-[![Build Status](https://travis-ci.org/MAIF/daikoku.svg?branch=master)](https://travis-ci.org/MAIF/daikoku) [![Join the chat at https://gitter.im/MAIF/daikoku](https://badges.gitter.im/MAIF/daikoku.svg)](https://gitter.im/MAIF/daikoku?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [ ![Download](https://img.shields.io/github/release/MAIF/daikoku.svg) ](https://github.com/MAIF/daikoku/releases/download/v1.0.0/daikoku.jar)
+[![Build Status](https://travis-ci.org/MAIF/daikoku.svg?branch=master)](https://travis-ci.org/MAIF/daikoku) [![Join the chat at https://gitter.im/MAIF/daikoku](https://badges.gitter.im/MAIF/daikoku.svg)](https://gitter.im/MAIF/daikoku?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSPoint42%2Fdaikoku.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSPoint42%2Fdaikoku?ref=badge_shield)
+[ ![Download](https://img.shields.io/github/release/MAIF/daikoku.svg) ](https://github.com/MAIF/daikoku/releases/download/v1.0.0/daikoku.jar)
 
 **Daikoku** is the missing developer portal for <a href="https://maif.github.io/otoroshi">Otoroshi</a> written in Scala and developped by the <a href="https://maif.github.io" target="_blank">MAIF</a> team .
 
@@ -27,3 +28,6 @@ and general hints on how to prepare your pull request. You can also ask for clar
 ## License
 
 Daikoku is Open Source and available under the Apache 2 License.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSPoint42%2Fdaikoku.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSPoint42%2Fdaikoku?ref=badge_large)
